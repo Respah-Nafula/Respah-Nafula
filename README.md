@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Software QA Engineer | QA Analyst | Manual & Automation Tester   
+##  Software QA Engineer | QA Analyst | Manual & Automation Tester   
 **Building reliable software through testing, automation & performance optimization**
 
 Results-driven Software QA Engineer with 3+ years of experience in manual and automation testing within Agile environments. I specialize in delivering high-quality software through structured testing processes, combining strong analytical skills with hands-on technical expertise.
@@ -16,6 +16,7 @@ Results-driven Software QA Engineer with 3+ years of experience in manual and au
 I have proven experience across UI, API, and performance testing using tools like Playwright, Postman, k6, and JMeter. I am passionate about improving test coverage, reducing release risks, and ensuring seamless user experiences.
 
 ---
+
 ### Key Skills
 - QA Testing & Automation
 - Manual Testing (Functional, Regression, Smoke & Sanity)
@@ -26,18 +27,24 @@ I have proven experience across UI, API, and performance testing using tools lik
 - API Testing using Postman, Newman & Rest Assured
 - Performance Testing using JMeter & k6
 - Defect Tracking & Bug Lifecycle Management (JIRA, Bugzilla, Azure DevOps)
+  ---
+
 
 ###  Testing & Automation
 - Playwright (TypeScript)  
 - Cypress  
 - Postman, Newman  
 - Rest Assured  
-- JMeter, k6  
+- JMeter, k6
+  ---
+
 
 ###  Programming Languages
 - TypeScript  
 - JavaScript  
 - Python
+  ---
+
   
 ###  AI in QA
 - AI-assisted test case design  
