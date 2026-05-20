@@ -16,8 +16,8 @@ Results-driven Software QA Engineer with 3+ years of experience in manual and au
 I have proven experience across UI, API, and performance testing using tools like Playwright, Postman, k6, and JMeter. I am passionate about improving test coverage, reducing release risks, and ensuring seamless user experiences.
 
 ---
-QA Testing & Automation
-
+### Key Skills
+- QA Testing & Automation
 - Manual Testing (Functional, Regression, Smoke & Sanity)
 - Test Case & Test Scenario Design
 - Exploratory & Cross-Browser Testing
