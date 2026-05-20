@@ -1,4 +1,4 @@
-## 📫 Contact Information
+##  Contact Information
 
 - 📍 Location: Nairobi, Kenya  
 - 📞 Phone: +254 745645342  
@@ -16,33 +16,35 @@ Results-driven Software QA Engineer with 3+ years of experience in manual and au
 I have proven experience across UI, API, and performance testing using tools like Playwright, Postman, k6, and JMeter. I am passionate about improving test coverage, reducing release risks, and ensuring seamless user experiences.
 
 ---
-### 🧪 Testing & Automation
+QA Testing & Automation
+
+- Manual Testing (Functional, Regression, Smoke & Sanity)
+- Test Case & Test Scenario Design
+- Exploratory & Cross-Browser Testing
+- User Acceptance Testing (UAT)
+- Automation Testing with Playwright (TypeScript) & Cypress
+- API Testing using Postman, Newman & Rest Assured
+- Performance Testing using JMeter & k6
+- Defect Tracking & Bug Lifecycle Management (JIRA, Bugzilla, Azure DevOps)
+
+###  Testing & Automation
 - Playwright (TypeScript)  
 - Cypress  
 - Postman, Newman  
 - Rest Assured  
 - JMeter, k6  
 
-### 💻 Programming Languages
+###  Programming Languages
 - TypeScript  
 - JavaScript  
-- Python  
-
-### ⚙️ Tools & Platforms
-- Git & GitHub  
-- GitHub Actions, Azure DevOps (CI/CD)  
-- JIRA, Bugzilla, TestRail  
-- Chrome DevTools  
-
-### 🤖 AI in QA
+- Python
+  
+###  AI in QA
 - AI-assisted test case design  
 - Test data generation  
 - Defect analysis & documentation  
-
 ---
-
-## 💼 Professional Experience
-
+##  Professional Experience
 ### Software QA Engineer  
 *iFunza Technologies Limited | Nairobi, Kenya*  
 **Jan 2022 – Dec 2025**
@@ -65,7 +67,7 @@ I have proven experience across UI, API, and performance testing using tools lik
 - Collaborated with QA and development teams  
 
 ---
-## 🤝 Volunteering Experience
+##  Volunteering Experience
 ### Volunteer Assistant Trainer  
 *Watoto Wasome | Nairobi, Kenya*  
 **2024 – Present**
@@ -74,7 +76,7 @@ I have proven experience across UI, API, and performance testing using tools lik
 - Worked closely with learners, gaining insight into user behavior and challenges—informing a user-centered approach to testing  digital learning platforms.
  
 
-## 🎯 Core Competencies
+##  Core Competencies
 - Manual & Automation Testing  
 - Test Case & Scenario Design  
 - Functional, Regression, Smoke & Sanity Testing  
@@ -87,7 +89,7 @@ I have proven experience across UI, API, and performance testing using tools lik
 
 ---
 
-##  What I'm Focused On
+##  What I am Focused On
 - Building scalable automation frameworks  
 - Advancing performance testing with k6 & JMeter  
 - Strengthening CI/CD testing workflows  
@@ -95,4 +97,4 @@ I have proven experience across UI, API, and performance testing using tools lik
 
 ---
 
-⭐ *Open to Manual and automation Testing opportunities
+ *Open to Manual and automation Testing opportunities
