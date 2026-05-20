@@ -65,6 +65,14 @@ I have proven experience across UI, API, and performance testing using tools lik
 - Collaborated with QA and development teams  
 
 ---
+## 🤝 Volunteering Experience
+### Volunteer Assistant Trainer  
+*Watoto Wasome | Nairobi, Kenya*  
+**2024 – Present**
+- Supported learners in navigating digital tools, strengthening understanding of end-user needs in software quality
+- Worked closely with learners, gaining valuable insights into user behavior and real-world challenges
+- Worked closely with learners, gaining insight into user behavior and challenges—informing a user-centered approach to testing  digital learning platforms.
+ 
 
 ## 🎯 Core Competencies
 - Manual & Automation Testing  
@@ -79,7 +87,7 @@ I have proven experience across UI, API, and performance testing using tools lik
 
 ---
 
-## 🌱 What I'm Focused On
+##  What I'm Focused On
 - Building scalable automation frameworks  
 - Advancing performance testing with k6 & JMeter  
 - Strengthening CI/CD testing workflows  
