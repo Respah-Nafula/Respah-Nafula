@@ -27,8 +27,8 @@ I have proven experience across UI, API, and performance testing using tools lik
 - API Testing using Postman, Newman & Rest Assured
 - Performance Testing using JMeter & k6
 - Defect Tracking & Bug Lifecycle Management (JIRA, Bugzilla, Azure DevOps)
+  
   ---
-
 
 ###  Testing & Automation
 - Playwright (TypeScript)  
@@ -36,16 +36,16 @@ I have proven experience across UI, API, and performance testing using tools lik
 - Postman, Newman  
 - Rest Assured  
 - JMeter, k6
+  
   ---
-
 
 ###  Programming Languages
 - TypeScript  
 - JavaScript  
 - Python
+  
   ---
 
-  
 ###  AI in QA
 - AI-assisted test case design  
 - Test data generation  
