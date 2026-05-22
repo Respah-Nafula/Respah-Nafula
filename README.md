@@ -4,7 +4,7 @@
 - 📞 Phone: +254 745645342  
 - 📧 Email: nafularespah@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/respah-wakhungu/  
-- 💻 GitHub: https://github.com/Respah_Nafula  
+- 💻 GitHub: https://github.com/Respah-Nafula
 
 ---
 😎 About Me
