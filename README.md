@@ -7,13 +7,13 @@
 - 💻 GitHub: https://github.com/Respah_Nafula  
 
 ---
-
+😎 About Me
+---
 ##  Software QA Engineer | QA Analyst | Manual & Automation Tester   
-**Building reliable software through testing, automation & performance optimization**
 
 Results-driven Software QA Engineer with 3+ years of experience in manual and automation testing within Agile environments. I specialize in delivering high-quality software through structured testing processes, combining strong analytical skills with hands-on technical expertise.
 
-I have proven experience across UI, API, and performance testing using tools like Playwright, Postman, k6, and JMeter. I am passionate about improving test coverage, reducing release risks, and ensuring seamless user experiences.
+I have proven experience across UI, API, and performance testing using tools like Playwright, Postman, k6, and JMeter. I am passionate about improving test coverage, reducing release risks, and ensuring seamless user experiences.I am always open to learning, collaboration, and opportunities where I can make a meaningful impact.
 
 ---
 
@@ -102,6 +102,10 @@ I have proven experience across UI, API, and performance testing using tools lik
 - Advancing performance testing with k6 & JMeter  
 - Strengthening CI/CD testing workflows  
 - Growing into a QA Engineer / SDET role  
+
+---
+
+**Quality Mindset:** I enjoy breaking down problems and approaching them from a user’s perspective to ensure products are both functional and easy to use. With experience in testing, I focus on identifying issues early and collaborating with teams to deliver reliable, high-quality solutions. My interest in edutech and customer-focused products, combined with my ongoing growth in automation and performance testing, allows me to continuously improve my approach and adapt to different project needs. When I’m not testing, I enjoy attending events, volunteering, and engaging in mentorship.
 
 ---
 
