@@ -5,6 +5,7 @@
 - 📧 Email: nafularespah@gmail.com 
 - 💼 LinkedIn: https://www.linkedin.com/in/respah-wakhungu/  
 - 💻 GitHub: https://github.com/Respah-Nafula
+- 💼 Portfolio: https://bold.pro/my/respah-nafula
 
 ---
 😎 About Me
